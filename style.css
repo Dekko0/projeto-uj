@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(18, 18, 77);
+}
+
+h1 {
+    background-color: rgb(14, 105, 2);
+    font-style: italic;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+h2 {
+    font-style: italic;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+main {
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+}
