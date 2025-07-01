@@ -26,7 +26,7 @@ O site é composto por cinco seções principais:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/techsolutions-site-basico.git
+   git clone https://github.com/Dekko0/projeto-uj.git
    ```
 2. Certifique-se de que o arquivo `globo tec.jpg` está no diretório correto `./img/`.
 3. Abra o arquivo `index.html` em qualquer navegador para visualizar o site.
